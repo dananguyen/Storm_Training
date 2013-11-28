@@ -1,0 +1,5 @@
+c:\users\minh\documents\visual studio 2013\Projects\Chapter 1\Chapter 1\bin\Debug\Chapter 1.exe.config
+c:\users\minh\documents\visual studio 2013\Projects\Chapter 1\Chapter 1\bin\Debug\Chapter 1.exe
+c:\users\minh\documents\visual studio 2013\Projects\Chapter 1\Chapter 1\bin\Debug\Chapter 1.pdb
+c:\users\minh\documents\visual studio 2013\Projects\Chapter 1\Chapter 1\obj\Debug\Chapter 1.exe
+c:\users\minh\documents\visual studio 2013\Projects\Chapter 1\Chapter 1\obj\Debug\Chapter 1.pdb
