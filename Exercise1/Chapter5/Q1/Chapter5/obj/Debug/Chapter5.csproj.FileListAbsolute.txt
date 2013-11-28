@@ -1,0 +1,6 @@
+c:\users\minh\documents\visual studio 2013\Projects\Chapter5\Chapter5\bin\Debug\Chapter5.exe.config
+c:\users\minh\documents\visual studio 2013\Projects\Chapter5\Chapter5\bin\Debug\Chapter5.exe
+c:\users\minh\documents\visual studio 2013\Projects\Chapter5\Chapter5\bin\Debug\Chapter5.pdb
+c:\users\minh\documents\visual studio 2013\Projects\Chapter5\Chapter5\obj\Debug\Chapter5.csprojResolveAssemblyReference.cache
+c:\users\minh\documents\visual studio 2013\Projects\Chapter5\Chapter5\obj\Debug\Chapter5.exe
+c:\users\minh\documents\visual studio 2013\Projects\Chapter5\Chapter5\obj\Debug\Chapter5.pdb
